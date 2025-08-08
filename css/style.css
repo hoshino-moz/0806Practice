@@ -19,7 +19,7 @@ section {
     box-sizing: ;
 }
 
-.wrapper {
+.wrapper{
     /* 最大でも1000pxまで */
     max-width: 1000px;
     margin: 0 auto;
